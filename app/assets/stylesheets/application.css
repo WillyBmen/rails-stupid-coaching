@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+ margin: 10px;
+ display: flex;
+ justify-content: center;
+
+
+ }
+
+ form{
+  margin: 16px;
+  display: flex;
+  justify-content: center;
+ }
+
+ p{
+  margin:none;
+  text-align: left;
+  justify-content: left;
+ }
+
+ .question{
+  display: flex;
+  justify-content: left;
+  padding:16px
+ }
+
+ .coach{
+ padding: 8px;
+ margin: 10px;
+ border-left: 2px solid;
+ }
+
+ .you{
+  padding: 8px;
+  margin: 10px;
+  border-left: 2px solid;
+ }
